@@ -1,0 +1,29 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    const int size = 20;
+    char tab[size];
+    cin >> tab;
+    int samogloski = 0;
+    
+    
+    
+    char *w = tab;
+    
+    
+    
+    while ( *w != '\0') {
+        
+    
+            if (*w == 'a' || *w == 'e' || *w == 'i' || *w == 'u' || *w == 'y' || *w == 'o')
+            {
+                samogloski ++;
+            }
+            w++;
+    }
+    cout << samogloski;
+    return 0;
+}
