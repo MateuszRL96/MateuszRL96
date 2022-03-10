@@ -1,0 +1,28 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    srand( time( NULL ) );
+    int tab=[10];
+    int *w = tab;
+    
+    for (int i=0; i < 10; i ++) {
+    
+        tab[i] = (rand()% 50) + 50 ;
+    }
+    
+    
+    for (int i=0; i < 10; i ++) {
+    if(*w % 2 == 0)
+            even++;
+            
+            cout << *w++ << "\t";
+            
+            cout << "Parzyste" <, endl;
+    }
+    
+    
+    
