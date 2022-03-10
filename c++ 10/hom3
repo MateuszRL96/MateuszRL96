@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    float tablica[ 10 ] = {1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.12};
+    float *a, *b;
+    
+    a = tablica;
+    b = tablica + 9;
+     cout << *a << endl;
+     cout << *b << endl;
+     
+     float temp = *a;
+     *a = *b;
+     *b =temp;
+     
+     cout << *a << endl;
+     cout << *b << endl;
+     
+     return 0;
+}
