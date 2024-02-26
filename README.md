@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me siema siema
 
-- angularjs
+angularjs java spring docker
 
 <!---
 MateuszRL96/MateuszRL96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
