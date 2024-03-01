@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MateuszRL96
 - 👀 I’m interested in fotball, voleyball, programing and Computer Graphic
-- 🌱 I’m currently learning C++ at School, React, Vue JS, Three JS and something more..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me siema siema
+- 🌱 I’m currently learning Java Prolog Lisp at School and in my free time
 
 angularjs java spring docker
 
